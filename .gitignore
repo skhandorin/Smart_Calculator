@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Problems/An expression with large numbers/out/
+/Problems/An expression with large numbers/out/production/classes/
+/Problems/Check the clock time/out/
+/Problems/Check the clock time/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Comparing numbers/out/
+/Problems/Comparing numbers/out/production/classes/
+/Problems/Creating queue/out/
+/Problems/Creating queue/out/production/classes/
+/Problems/Days of the week/out/
+/Problems/Days of the week/out/production/classes/
+/Problems/Days of week/out/
+/Problems/Days of week/out/production/classes/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems/Illegal identifiers/out/
+/Problems/Illegal identifiers/out/production/classes/
+/Problems/In the middle of a word/out/
+/Problems/In the middle of a word/out/production/classes/
+/Problems/Number parsing/out/
+/Problems/Number parsing/out/production/classes/
+/Problems/Remove comments/out/
+/Problems/Remove comments/out/production/classes/
+/Problems/Remove extra spaces/out/
+/Problems/Remove extra spaces/out/production/classes/
+/Problems/Remove HTML tags/out/
+/Problems/Remove HTML tags/out/production/classes/
+/Problems/Rotate a rectange array/out/
+/Problems/Rotate a rectange array/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/The LIFO principle in action/out/
+/Problems/The LIFO principle in action/out/production/classes/
+/Problems/The root of a number/out/
+/Problems/The root of a number/out/production/classes/
+/Problems/The secret enumeration/out/
+/Problems/The secret enumeration/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/Vehicle registration number/out/
+/Problems/Vehicle registration number/out/production/classes/
+/Problems/Which brackets are balanced/out/
+/Problems/Which brackets are balanced/out/production/classes/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
+/Smart Calculator/task/out/test/classes/
